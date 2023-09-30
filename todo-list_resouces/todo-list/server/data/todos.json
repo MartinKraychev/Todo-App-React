@@ -1,0 +1,47 @@
+{
+  "todo_1": {
+      "_id": "todo_1",
+      "text": "Give dog a bath",
+      "isCompleted": true
+  },
+  "todo_2": {
+      "_id": "todo_2",
+      "text": "Do laundry",
+      "isCompleted": true
+  },
+  "todo_3": {
+      "_id": "todo_3",
+      "text": "Vacuum floor",
+      "isCompleted": false
+  },
+  "todo_4": {
+      "_id": "todo_4",
+      "text": "Feed cat",
+      "isCompleted": true
+  },
+  "todo_5": {
+      "_id": "todo_5",
+      "text": "Change light bulbs",
+      "isCompleted": false
+  },
+  "todo_6": {
+      "_id": "todo_6",
+      "text": "Go to Store",
+      "isCompleted": true
+  },
+  "todo_7": {
+      "_id": "todo_7",
+      "text": "Fill gas tank",
+      "isCompleted": true
+  },
+  "todo_8": {
+      "_id": "todo_8",
+      "text": "Change linens",
+      "isCompleted": false
+  },
+  "todo_9": {
+      "_id": "todo_9",
+      "text": "Rake leaves",
+      "isCompleted": true
+  }
+}
